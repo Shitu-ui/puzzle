@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: lightgray;
+}
+.app_container{
+    width: 600px;
+    margin: 25px auto;
+}
+.buttons{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.info{
+    font-size: 2em;
+    font-weight: bold;
+}
+
